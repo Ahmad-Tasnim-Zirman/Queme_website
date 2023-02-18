@@ -244,3 +244,318 @@ section .sci li a:hover{
     height: 40px;
     cursor: pointer;
 }
+
+@media screen and (max-width: 1024px){
+    /* header .logo{
+        font-size: 20px;
+    }
+
+    header nav ul li a{
+        font-size: 14px;
+    } */
+
+    .wave{
+        height: 80%;
+    }
+
+    section .contentBx h2{
+        font-size: 24px;
+    }
+
+    section .contentBx p{
+        font-size: 14px;
+    }
+    
+    section .contentBx .countdown .time{
+        font-size: 24px;
+        min-width: 70px;
+    }
+
+    section .contentBx .countdown .time span{
+        font-size: 15px;
+    }
+
+    section .contentBx a{
+        padding: 7.5px 17.5px;
+        font-size: 15px;
+    }
+
+    section .imgBx img{
+        top: -20px;
+        width: 200px;
+    }
+
+    section .sci li a{
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 768px){
+    header .logo{
+        font-size: 20px;
+    }
+
+    header nav ul li a{
+        font-size: 14px;
+    }
+
+    .wave{
+        height: 65%;
+    }
+
+    section .contentBx h2{
+        font-size: 20px;
+    }
+
+    section .contentBx p{
+        font-size: 12px;
+    }
+    
+    section .contentBx .countdown .time{
+        font-size: 20px;
+        min-width: 65px;
+    }
+
+    section .contentBx .countdown .time span{
+        font-size: 13px;
+    }
+
+    section .contentBx a{
+        padding: 7.5px 17.5px;
+        font-size: 15px;
+    }
+
+    section .imgBx img{
+        top: 20px;
+        width: 180px;
+    }
+
+    section .sci li a{
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 626px){
+    header .logo{
+        font-size: 20px;
+    }
+
+    header nav ul li a{
+        font-size: 14px;
+    }
+
+    .wave{
+        height: 60%;
+    }
+
+    section .contentBx h2{
+        font-size: 20px;
+    }
+
+    section .contentBx p{
+        font-size: 12px;
+    }
+    
+    section .contentBx .countdown .time{
+        font-size: 14px;
+        min-width: 55px;
+    }
+
+    section .contentBx .countdown .time span{
+        font-size: 12px;
+    }
+
+    section .contentBx a{
+        padding: 7.5px 12px;
+        font-size: 15px;
+    }
+    
+    section .imgBx img{
+        width: 150px;
+    }
+    
+    section .sci li a{
+        font-size: 20px;
+        color: var(--text-hover);
+    }
+}
+
+@media screen and (max-width: 550px){
+    header .logo{
+        font-size: 20px;
+    }
+
+    header nav ul li a{
+        font-size: 14px;
+    }
+
+    .wave{
+        height: 55%;
+    }
+
+    section .contentBx h2{
+        font-size: 20px;
+    }
+
+    section .contentBx p{
+        font-size: 12px;
+    }
+    
+    section .contentBx .countdown .time{
+        font-size: 14px;
+        min-width: 55px;
+    }
+
+    section .contentBx .countdown .time span{
+        font-size: 12px;
+    }
+
+    section .contentBx a{
+        padding: 7.5px 12px;
+        font-size: 15px;
+    }
+    
+    section .imgBx img{
+        display: none;
+    }
+    
+    section .sci li a{
+        font-size: 20px;
+        color: var(--text-hover);
+    }
+}
+
+@media screen and (max-width: 426px){
+    header .logo{
+        font-size: 16px;
+    }
+
+    header nav ul li a{
+        font-size: 13px;
+    }
+
+    .wave{
+        height: 50%;
+    }
+
+    section .contentBx h2{
+        font-size: 16px;
+    }
+
+    section .contentBx p{
+        font-size: 10px;
+    }
+    
+    section .contentBx .countdown .time{
+        font-size: 12px;
+        min-width: 45px;
+    }
+
+    section .contentBx .countdown .time span{
+        font-size: 10px;
+    }
+
+    section .contentBx a{
+        padding: 7.5px 8px;
+        font-size: 13px;
+    }
+    
+    section .imgBx img{
+        display: none;
+    }
+    
+    section .sci li a{
+        font-size: 20px;
+        color: var(--text-hover);
+    }
+}
+
+@media screen and (max-width: 376px){
+    header .logo{
+        font-size: 16px;
+    }
+
+    header nav ul li a{
+        font-size: 13px;
+    }
+
+    .wave{
+        height: 45%;
+    }
+
+    section .contentBx h2{
+        font-size: 16px;
+    }
+
+    section .contentBx p{
+        font-size: 10px;
+    }
+    
+    section .contentBx .countdown .time{
+        font-size: 10px;
+        min-width: 30px;
+    }
+
+    section .contentBx .countdown .time span{
+        font-size: 8px;
+    }
+
+    section .contentBx a{
+        padding: 7.5px 8px;
+        font-size: 13px;
+    }
+    
+    section .imgBx img{
+        display: none;
+    }
+    
+    section .sci li a{
+        font-size: 20px;
+        color: var(--text-hover);
+    }
+}
+
+@media screen and (max-width: 321px){
+    header .logo{
+        font-size: 16px;
+    }
+
+    header nav ul li a{
+        font-size: 13px;
+    }
+
+    .wave{
+        height: 40%;
+    }
+
+    section .contentBx h2{
+        font-size: 16px;
+    }
+
+    section .contentBx p{
+        font-size: 10px;
+    }
+    
+    section .contentBx .countdown .time{
+        font-size: 8px;
+        min-width: 30px;
+    }
+
+    section .contentBx .countdown .time span{
+        font-size: 6px;
+    }
+
+    section .contentBx a{
+        padding: 7.5px 8px;
+        font-size: 13px;
+    }
+    
+    section .imgBx img{
+        display: none;
+    }
+    
+    section .sci li a{
+        font-size: 20px;
+        color: var(--text-hover);
+    }
+}
